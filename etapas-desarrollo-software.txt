@@ -1,0 +1,6 @@
+analisis
+diseño
+programacion
+implementacion
+mantenimiento
+documentacion
